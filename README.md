@@ -8,6 +8,7 @@ The project contains different files:
     iv. README.md
 3. A Jupyter Notebook file
     v. index.ipynb
+4. .gitignore file
 
 ## Overview
 
